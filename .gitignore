@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+venv/
+.venv/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+.aws/
+*credentials*
+*secret*
+
+# Raw and processed datasets
+Data/Raw/
+Data/Processed/*.csv
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
