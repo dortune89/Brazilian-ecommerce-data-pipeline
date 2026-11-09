@@ -147,7 +147,7 @@ Brazilian E-commerce Dataset/
 - [x] Duplicate protection
 - [x] Amazon S3 bucket creation
 - [x] Automated Python upload to S3 using Boto3
-- [ ] Publish project to GitHub
+- [x] Publish project to GitHub
 
 ## 8. Dataset Attribution and License
 
